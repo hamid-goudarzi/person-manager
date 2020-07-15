@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/person-manager/static/css/main.2efb2ef2.chunk.css",
+    "main.js": "/person-manager/static/js/main.24cc93b2.chunk.js",
+    "main.js.map": "/person-manager/static/js/main.24cc93b2.chunk.js.map",
+    "runtime-main.js": "/person-manager/static/js/runtime-main.79b0c01e.js",
+    "runtime-main.js.map": "/person-manager/static/js/runtime-main.79b0c01e.js.map",
+    "static/css/2.5dbdccff.chunk.css": "/person-manager/static/css/2.5dbdccff.chunk.css",
+    "static/js/2.4faac7e1.chunk.js": "/person-manager/static/js/2.4faac7e1.chunk.js",
+    "static/js/2.4faac7e1.chunk.js.map": "/person-manager/static/js/2.4faac7e1.chunk.js.map",
+    "index.html": "/person-manager/index.html",
+    "precache-manifest.7e019ede364688340faa5f4d52fac34d.js": "/person-manager/precache-manifest.7e019ede364688340faa5f4d52fac34d.js",
+    "service-worker.js": "/person-manager/service-worker.js",
+    "static/css/2.5dbdccff.chunk.css.map": "/person-manager/static/css/2.5dbdccff.chunk.css.map",
+    "static/css/main.2efb2ef2.chunk.css.map": "/person-manager/static/css/main.2efb2ef2.chunk.css.map",
+    "static/js/2.4faac7e1.chunk.js.LICENSE": "/person-manager/static/js/2.4faac7e1.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.79b0c01e.js",
+    "static/css/2.5dbdccff.chunk.css",
+    "static/js/2.4faac7e1.chunk.js",
+    "static/css/main.2efb2ef2.chunk.css",
+    "static/js/main.24cc93b2.chunk.js"
+  ]
+}
